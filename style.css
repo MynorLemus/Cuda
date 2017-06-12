@@ -1,0 +1,289 @@
+.header{
+		background: #8b509f;
+		height: auto;
+
+}
+.button1{
+			background-color: #8b509f;
+			border: none;
+			margin-top: 20px;
+			color: white;
+}
+.button1:hover{
+	background-color: #5B3468;
+	border-radius: 3px;
+}
+
+.text1{
+	font-family: 'Roboto', sans-serif;
+	color: white;
+	font-weight: bolder;
+	font-size: 30px;
+	text-align: center;
+}
+
+.button2{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 250px;
+	height: 70px;
+	background-color: #FF6846;
+	border: none;
+	-webkit-box-shadow: 9px 10px 5px 0px rgba(122,122,122,1);
+	-moz-box-shadow: 9px 10px 5px 0px rgba(122,122,122,1);
+	box-shadow: 9px 10px 5px 0px rgba(122,122,122,1);
+	
+}
+
+.header1{
+	background-color: #17C1A4;
+	height: auto;
+}
+
+.text2{
+	font-family: 'Roboto', sans-serif;
+	color: white;
+	font-weight: bolder;
+	font-size: 27px;
+	text-align: center;
+
+}
+.text3{
+	font-family: 'Roboto', sans-serif;
+	color: white;
+	font-size: 13px;
+	text-align: center;
+}
+
+.l1{
+	width: 70px;
+	text-align: center;
+    height: 4px; 
+    border: none;
+    margin-top: -2px;
+}
+
+.img3{
+	text-align: right;
+}
+
+
+.text4{
+	color: white;
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
+
+.text5{
+	color: white;
+	font-size: 13px;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
+
+.header2{
+	background-color: #E7F2F8;
+	height: auto; 
+}
+
+.text6{
+	color: black;
+	font-size: 30px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bolder;
+}
+
+.text7{
+	color: black;
+	font-size: 15px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+
+.img4{
+	text-align: center;
+}
+
+
+.text8{
+	color: black;
+	font-size: 17px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+
+.a1{
+	font-size: 12px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+
+.text9{
+	color: black;
+	font-size: 11px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+.btn-facebook {
+    color: #fff;
+    background-color: #3b5998;
+    border-color: rgba(0,0,0,0.2);
+}
+
+.header3{
+	height: auto;
+}
+
+.text10{
+	font-size: 30px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bolder;
+	color: #777272;
+
+}
+
+.text11{
+	font-size: 20px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bolder;
+	color: #777272;
+}
+
+.header4{
+	background-color: #FEDD96;
+	height: auto;
+}
+
+.but2{
+	font-size: 22px;
+	background-color: #E6CA8D;
+	color:  #E6CA8D;
+	width: 100px;
+	height: 40px;
+	border: none;
+	color: #777272;
+	border-radius: 3px;
+
+
+}
+
+.but2:hover{
+	background-color: white;
+	border-radius: 3px;
+}
+
+.butt2{
+	text-align: center;
+}
+
+.img7{
+	text-align: center;
+}
+
+.button6{
+	background-color:#17C1A4; 
+	width: 300px;
+	height: 100px;
+	color: white;
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bolder;
+
+}
+
+.text12{
+	color: #FFA6C9;
+	font-size: 18px;
+	font-style: oblique;
+	font-family: 'Roboto', sans-serif;
+	text-align: left;
+}
+
+.text13{
+	font-family: 'Roboto', sans-serif;
+	font-weight: bolder;
+	font-size: 25px;
+	color: white;
+
+
+}
+
+.text14{
+	font-size: 23px;
+	font-family: 'Roboto', sans-serif;
+	color: #FEF06F;
+
+}
+
+.header5{
+	background-color: #D6477F;
+	height: auto;
+}
+
+.header6{
+	background-color: #3C549A;
+	height: auto;
+}
+
+.input1{
+	width: 550px;
+	height: 70px;
+	background-color: #314378;
+	border: none;
+	color: white;
+	font-size: 20px;
+	padding: 10px 20px;
+
+}
+
+*::-webkit-input-placeholder {
+    /* Google Chrome y Safari */
+    color: white;
+}
+.input2{
+	width: 1137px;
+	height: 400px;
+	background-color: #314378;
+	border: none;
+	color: white;
+	font-size: 20px;
+	padding: inherit;
+}
+
+.butto{
+	background-color:#4CF5EF; 
+	width: 300px;
+	height: 75px;
+	color: white;
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bolder;
+	border: none;
+}
+
+      .header7{
+      	background-color: #344B8E;
+      	height: auto;
+      }
+
+
+.botonn{
+	border: none;
+	background-color: #344B8E;
+	padding: 12px 32px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 25px;
+	color: white;
+}
+
+.botonn:hover{
+	background-color: #344B8E;
+	color: #49B8EC;
+}
